@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Muzammil</h1>
 <h3 align="center">A passionate Computer Science student interested in Machine Learning and Software Development.</h3>
 
-- 📫 How to reach me **muzammil@ualberta.ca**
+- 📫 How to reach me: **muzammil@ualberta.ca**
 
 <p align="left">
 </p>
