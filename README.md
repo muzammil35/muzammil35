@@ -1,7 +1,5 @@
 
-<h3 align="center">passionate Computer Science student interested in Machine Learning and Software Development.</h3>
 
-- 📫 How to reach me: **muzammil@ualberta.ca**
 
 <p align="left">
 </p>
